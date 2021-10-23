@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are a research group dedicated to studying life from the perspective of time (🌱⏳), which includes the study of sleep and biological rhythms. Our group is composed of hospitable and irreverent researchers, from different areas of knowledge, who value interdisciplinarity and horizontality in the discussion and development of science.
+We are a research group dedicated to studying life (🌱) from the perspective of time (⏳), which includes the study of sleep and biological rhythms. Our team is composed of hospitable and irreverent researchers, from different areas of knowledge, who value interdisciplinarity and horizontality in the discussion and development of science.
 
 Get to know us better at [each.usp.br/gipso](http://each.usp.br/gipso).
 
