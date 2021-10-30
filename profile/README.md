@@ -4,7 +4,7 @@ We are a research group dedicated to studying life (🌱) from the perspective o
 
 Get to know us better at [each.usp.br/gipso](http://each.usp.br/gipso).
 
-See also other GIPSO repositories hosted by other GitHub organizations:
+See also other GIPSO repositories hosted by other organizations on GitHub:
 
 * [`ropensci/mctq`](https://github.com/ropensci/mctq): ☀ R package for the Munich ChronoType Questionnaire
 
