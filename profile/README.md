@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-We are a research group dedicated to studying life (🌱) from the perspective of time (⏳), which includes the study of sleep and biological rhythms. Our team is composed of hospitable researchers, from different areas of knowledge, who value interdisciplinarity and horizontality in the discussion and development of science.
+We are a research group dedicated to studying life (🌱) from the perspective of time (⏳), which includes the study of sleep and biological rhythms. Our team is composed of welcoming  researchers, from different areas of knowledge, who value interdisciplinarity and horizontality in the discussion and development of science.
 
 Get to know us better at [each.usp.br/gipso](http://each.usp.br/gipso).
+
+See also other GIPSO repositories hosted by other GitHub organizations:
+
+* [`ropensci/mctq`](https://github.com/ropensci/mctq): ☀ R package for the Munich ChronoType Questionnaire
 
 ---
 
