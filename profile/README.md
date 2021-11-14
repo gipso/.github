@@ -6,7 +6,7 @@ Get to know us better at [each.usp.br/gipso](http://each.usp.br/gipso).
 
 See also other GIPSO repositories hosted by other organizations on GitHub:
 
-* [`ropensci/mctq`](https://github.com/ropensci/mctq): ☀ R package for the Munich ChronoType Questionnaire
+* [`ropensci/mctq`](https://github.com/ropensci/mctq): ☀ Tools to process the Munich ChronoType Questionnaire (MCTQ)
 
 ---
 
